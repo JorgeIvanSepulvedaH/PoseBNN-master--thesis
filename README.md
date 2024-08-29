@@ -1,2 +1,2 @@
-# PoseBNN-master--thesis
+# PoseBNN-master-thesis
 Marther thesis repository
